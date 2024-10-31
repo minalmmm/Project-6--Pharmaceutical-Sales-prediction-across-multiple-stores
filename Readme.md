@@ -36,10 +36,11 @@ The project employs several machine learning techniques to predict sales:
 A Streamlit application was developed to serve the trained models. Users can upload their data as a CSV file, and the app will return sales predictions.
 
 ### Output Display
-![Output Image 1](image1)  
-![Output Image 2](image2)  
-![Output Image 3](image3)  
-![Output Image 4](image4)  
-![Output Image 5](image5)  
-![Output Image 6](image6)  
+![Output Image 1](C:/data science material/project_6/Notebook/image1.png)  
+![Output Image 2](C:/data science material/project_6/Notebook/image2.png)  
+![Output Image 3](C:/data science material/project_6/Notebook/image3.png)  
+![Output Image 4](C:/data science material/project_6/Notebook/image4.png)  
+![Output Image 5](C:/data science material/project_6/Notebook/image5.png)  
+![Output Image 6](C:/data science material/project_6/Notebook/image6.png)  
+
  
