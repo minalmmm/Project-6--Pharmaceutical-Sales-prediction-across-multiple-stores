@@ -1,0 +1,11 @@
+pandas
+numpy
+seaborn
+matplotlib
+scipy
+datetime
+plotly
+scikit-learn
+tabulate
+Flask
+tensorflow

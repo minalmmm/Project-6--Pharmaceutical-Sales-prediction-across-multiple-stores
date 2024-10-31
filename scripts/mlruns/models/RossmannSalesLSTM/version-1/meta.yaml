@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1730352033720
+current_stage: None
+description: null
+last_updated_timestamp: 1730352033720
+name: RossmannSalesLSTM
+run_id: b8995a37b5de4ae9b1816285d0bef997
+run_link: null
+source: file:///C:/data%20science%20material/project_6/scripts/mlruns/0/b8995a37b5de4ae9b1816285d0bef997/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/data%20science%20material/project_6/scripts/mlruns/0/b8995a37b5de4ae9b1816285d0bef997/artifacts/model
+user_id: null
+version: 1

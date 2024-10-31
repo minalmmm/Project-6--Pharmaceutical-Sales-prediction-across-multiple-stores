@@ -1,0 +1,12 @@
+2024-09-22 14:35:38,033 - __main__ - INFO - Starting the Rossmann sales forecast analysis.
+2024-09-22 14:35:38,051 - __main__ - INFO - Store data loaded successfully.
+2024-09-22 14:35:38,544 - __main__ - INFO - Training data loaded successfully.
+2024-09-22 14:35:38,613 - __main__ - INFO - Test data loaded successfully.
+2024-09-22 15:43:04,703 - __main__ - INFO - Starting the Rossmann sales forecast analysis.
+2024-09-22 15:43:04,722 - __main__ - INFO - Store data loaded successfully.
+2024-09-22 15:43:05,266 - __main__ - INFO - Training data loaded successfully.
+2024-09-22 15:43:05,305 - __main__ - INFO - Test data loaded successfully.
+2024-09-22 15:55:32,289 - __main__ - INFO - Starting the Rossmann sales forecast analysis.
+2024-09-22 15:55:32,305 - __main__ - INFO - Store data loaded successfully.
+2024-09-22 15:55:32,847 - __main__ - INFO - Training data loaded successfully.
+2024-09-22 15:55:32,888 - __main__ - INFO - Test data loaded successfully.

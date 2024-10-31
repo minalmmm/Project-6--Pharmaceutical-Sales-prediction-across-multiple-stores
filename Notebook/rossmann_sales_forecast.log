@@ -1,0 +1,50 @@
+2024-09-22 14:45:32,380 - src.logger - INFO - Starting the Rossmann sales forecast analysis.
+2024-09-22 14:45:32,385 - src.logger - INFO - Store data loaded successfully.
+2024-09-22 14:45:33,118 - src.logger - INFO - Training data loaded successfully.
+2024-09-22 14:45:33,179 - src.logger - INFO - Test data loaded successfully.
+2024-09-22 14:47:05,714 - logger - INFO - Starting the Rossmann sales forecast analysis.
+2024-09-22 14:47:05,721 - logger - INFO - Store data loaded successfully.
+2024-09-22 14:47:06,487 - logger - INFO - Training data loaded successfully.
+2024-09-22 14:47:06,528 - logger - INFO - Test data loaded successfully.
+2024-09-22 15:52:35,576 - src.logger - INFO - This is an informational message.
+2024-09-22 15:52:35,577 - src.logger - ERROR - This is an error message.
+2024-09-29 15:11:51,401 - src.logger - INFO - Starting the Rossmann sales forecast analysis.
+2024-09-29 15:11:51,419 - src.logger - INFO - Store data loaded successfully.
+2024-09-29 15:11:52,008 - src.logger - INFO - Training data loaded successfully.
+2024-09-29 15:11:52,069 - src.logger - INFO - Test data loaded successfully.
+2024-10-01 10:08:22,805 - src.logger - INFO - Starting the Rossmann sales forecast analysis.
+2024-10-01 10:08:22,841 - src.logger - INFO - Store data loaded successfully.
+2024-10-01 10:08:23,554 - src.logger - INFO - Training data loaded successfully.
+2024-10-01 10:08:23,646 - src.logger - INFO - Test data loaded successfully.
+2024-10-01 11:38:47,278 - src.logger - INFO - Starting the Rossmann sales forecast analysis.
+2024-10-01 11:38:47,289 - src.logger - INFO - Store data loaded successfully.
+2024-10-01 11:38:48,093 - src.logger - INFO - Training data loaded successfully.
+2024-10-01 11:38:48,157 - src.logger - INFO - Test data loaded successfully.
+2024-10-01 12:27:20,378 - src.logger - INFO - Starting the Rossmann sales forecast analysis.
+2024-10-01 12:27:20,394 - src.logger - INFO - Store data loaded successfully.
+2024-10-01 12:27:21,092 - src.logger - INFO - Training data loaded successfully.
+2024-10-01 12:27:21,166 - src.logger - INFO - Test data loaded successfully.
+2024-10-01 12:52:33,462 - src.logger - INFO - Starting the Rossmann sales forecast analysis.
+2024-10-01 12:52:33,476 - src.logger - INFO - Store data loaded successfully.
+2024-10-01 12:52:34,240 - src.logger - INFO - Training data loaded successfully.
+2024-10-01 12:52:34,312 - src.logger - INFO - Test data loaded successfully.
+2024-10-14 06:57:51,485 - src.logger - INFO - Starting the Rossmann sales forecast analysis.
+2024-10-14 06:57:51,521 - src.logger - INFO - Store data loaded successfully.
+2024-10-14 06:57:52,668 - src.logger - INFO - Training data loaded successfully.
+2024-10-14 06:57:52,717 - src.logger - INFO - Test data loaded successfully.
+2024-10-14 12:55:29,861 - src.logger - INFO - Starting the Rossmann sales forecast analysis.
+2024-10-14 12:55:29,910 - src.logger - INFO - Store data loaded successfully.
+2024-10-14 12:55:30,777 - src.logger - INFO - Training data loaded successfully.
+2024-10-14 12:55:30,870 - src.logger - INFO - Test data loaded successfully.
+2024-10-14 20:37:01,107 - src.logger - INFO - Starting the Rossmann sales forecast analysis.
+2024-10-14 20:37:01,154 - src.logger - INFO - Store data loaded successfully.
+2024-10-14 20:37:01,955 - src.logger - INFO - Training data loaded successfully.
+2024-10-14 20:37:02,038 - src.logger - INFO - Test data loaded successfully.
+2024-10-27 09:41:39,176 - src.logger - INFO - Starting the Rossmann sales forecast analysis.
+2024-10-27 09:41:39,210 - src.logger - INFO - Store data loaded successfully.
+2024-10-27 09:41:39,710 - src.logger - INFO - Training data loaded successfully.
+2024-10-27 09:41:39,759 - src.logger - INFO - Test data loaded successfully.
+2024-10-27 13:31:05,576 - src.logger - INFO - Starting the Rossmann sales forecast analysis.
+2024-10-27 13:31:05,612 - src.logger - INFO - Store data loaded successfully.
+2024-10-27 13:31:06,218 - src.logger - INFO - Training data loaded successfully.
+2024-10-27 13:31:06,318 - src.logger - INFO - Test data loaded successfully.

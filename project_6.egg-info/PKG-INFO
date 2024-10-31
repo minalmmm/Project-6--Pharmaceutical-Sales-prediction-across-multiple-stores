@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: project_6
+Version: 0.0.1
+Author: Minal Devikar
+Author-email: meenal.madankar@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scipy
+Requires-Dist: datetime
+Requires-Dist: plotly
+Requires-Dist: scikit-learn
+Requires-Dist: tabulate
+Requires-Dist: Flask
+Requires-Dist: tensorflow
