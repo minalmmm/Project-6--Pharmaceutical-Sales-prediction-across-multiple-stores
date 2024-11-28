@@ -36,10 +36,10 @@ The project employs several machine learning techniques to predict sales:
 A Streamlit application was developed to serve the trained models. Users can upload their data as a CSV file, and the app will return sales predictions.
 
 ### Output Display
-![Output Image 1](https://github.com/minalmmm/Project-6--Pharmaceutical-Sales-prediction-across-multiple-stores/blob/main/Notebook/image1.png)  
-![Output Image 2](https://github.com/minalmmm/Project-6--Pharmaceutical-Sales-prediction-across-multiple-stores/blob/main/Notebook/image2.png)  
-![Output Image 3](https://github.com/minalmmm/Project-6--Pharmaceutical-Sales-prediction-across-multiple-stores/blob/main/Notebook/image3.png)  
-![Output Image 4](https://github.com/minalmmm/Project-6--Pharmaceutical-Sales-prediction-across-multiple-stores/blob/main/Notebook/image4.png)  
-![Output Image 5](https://github.com/minalmmm/Project-6--Pharmaceutical-Sales-prediction-across-multiple-stores/blob/main/Notebook/image5.png)  
-![Output Image 6](https://github.com/minalmmm/Project-6--Pharmaceutical-Sales-prediction-across-multiple-stores/blob/main/Notebook/image6.png)  
+![Output Image 1](https://github.com/minalmmm/Student-Performance-Prediction/blob/main/Notebook/images/img1.png)
+![Output Image 1](https://github.com/minalmmm/Student-Performance-Prediction/blob/main/Notebook/images/img2.png)  
+![Output Image 1](https://github.com/minalmmm/Student-Performance-Prediction/blob/main/Notebook/images/img3.png)
+![Output Image 1](https://github.com/minalmmm/Student-Performance-Prediction/blob/main/Notebook/images/img4.png)
+![Output Image 1](https://github.com/minalmmm/Student-Performance-Prediction/blob/main/Notebook/images/img5.png)
+
 
